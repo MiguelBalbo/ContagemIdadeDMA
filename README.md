@@ -1,2 +1,2 @@
 # ContagemIdadeDMA
-Contagem de dias durante duas datas fornecidas em dias, meses e ano
+Programa em java que realiza a contagem entre duas datas fornecidas, fornecendo o tempo do período em dias, meses e ano
